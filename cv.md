@@ -4,7 +4,7 @@
 
 ### Contacts:
 * Phone:
-    - [+374 94 099053](tel:+37494099053)
+    - [+374 94 099053](callto:+37494099053)
 * E-mail:
     - [am.dianasmertina@gmail.com](mailto:am.dianasmertina@gmail.com)
 * Telegram:
@@ -12,7 +12,7 @@
 * GitHub and nickname:
     - [@DianaSmertina](https://github.com/DianaSmertina)
 * Codewars:
-    - [_Di_](https://www.codewars.com/users/_Di_)
+    - [rsschool_DianaSmertina](https://www.codewars.com/users/_Di_)
 
 
 ### About me:
